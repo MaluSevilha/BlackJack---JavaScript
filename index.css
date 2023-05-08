@@ -1,3 +1,17 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(imagens/cartasImagem.png);
+    background-size: cover;
+    color: white;
+    font-style: bold;
+}
+
 h1 {
     color: goldenrod;
+}
+
+#message-el {
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
 }

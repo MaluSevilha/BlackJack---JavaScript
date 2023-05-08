@@ -1,5 +1,5 @@
 let firstCard = 10
-let secodCard = 11
+let secondCard = 11
 
 let sum = firstCard + secondCard
 let isAlive = true
